@@ -1,0 +1,1 @@
+This folder is for self-assigned programming exercises, i.e. rebuilding Tinder and learnyounode exercises.
