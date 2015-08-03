@@ -1,0 +1,8 @@
+Products:
+BlueSport Agent: Mobile amateur matchmaking system. Can view Sky Hub data.
+
+Sky Hub: Local site for compiling athlete data, detailed performance history. Should import stats from across multiple platforms. Should offer API
+
+Tournament Center: Lightweight tournament creation tool 
+
+Issues: Pulling data from tournamentsoftware, other sites.
